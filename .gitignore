@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+
+# Streamlit
+.streamlit/
+
+# Large model checkpoints
+*.h5
+*.keras
+*.npy
+*.pkl
+
+# System
+.DS_Store
